@@ -1,6 +1,6 @@
-IPSOU— The world's first search engine based on IPFS
+IPSOU— The World's First Search Engine Based on IPFS
 ===============================================
-**IPSOU** will bring the world's first search engine based on **IPFS**.The purpose of **IPSOU** is to ensure the security of the user's stored data, and the value of the users’ search data is returned to each user.At the same time, **IPSOU** also provides distributed search data storage services for the world. **IPSOU** will keep the whole information of the humanity safely and permanently.
+**IPSOU** will bring the world's first search engine based on **IPFS**. The purpose of **IPSOU** is to ensure the security of the user's stored data, and the value of the users’ search data is returned to each user. At the same time, **IPSOU** also provides distributed search data storage services for the world. **IPSOU** will keep the whole information of the humanity safely and permanently.
 
 ![IPSU logo](https://github.com/IPSOUoffical/ipsou/blob/master/image/logo.png)
 
