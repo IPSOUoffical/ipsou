@@ -1,5 +1,5 @@
 IPSOU is a Distributed Search Engine---Google's Strongest Rival
-------------------------------------------------------
+================================================
 
 The current negative news about Google continues. First, Google faced the first GDPR survey of the Irish privacy regulator, followed by an antitrust investigation by the US Department of Justice on its search business and other aspects of the company. This proves that there are many problems in the way of centralization.
 
@@ -27,3 +27,4 @@ Centralized management of centralized storage can be completely compromised by o
 *【Data ownership and privacy protection】*
 
 The user's identity and stored data/file content are hash-encrypted and the privacy leaks are better avoided within the system.
+
