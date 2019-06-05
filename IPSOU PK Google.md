@@ -1,3 +1,6 @@
+*IPSOU is a Weakly Centralized Search Engine---Google's Strongest Rival*
+------------------------------------------------------
+
 The current negative news about Google continues. First, Google faced the first GDPR survey of the Irish privacy regulator, followed by an antitrust investigation by the US Department of Justice on its search business and other aspects of the company. This proves that there are many problems in the way of centralization.
 
 The IPFS, which was born in 2014, has been in operation for nearly five years and its popularity is obvious. Unlike Google, IPFS is a decentralized distributed storage system, and there are many projects based on IPFS development. The more famous ones are PSOU, LibP2P, and Multiformats.
