@@ -1,5 +1,6 @@
-*IPSOU is a Weakly Centralized Search Engine---Google's Strongest Rival*
+**IPSOU is a Weakly Centralized Search Engine---Google's Strongest Rival**
 ------------------------------------------------------
+
 
 The current negative news about Google continues. First, Google faced the first GDPR survey of the Irish privacy regulator, followed by an antitrust investigation by the US Department of Justice on its search business and other aspects of the company. This proves that there are many problems in the way of centralization.
 
