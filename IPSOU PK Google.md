@@ -12,17 +12,18 @@ Mutiformats is a collection of hash encryption algorithms and self-describing me
 LibP2P can help developers quickly establish an available P2P network layer in the face of various transport layer protocols and complex network equipment.
 
 IPSOU deserves to be focused!
+------------------------------------------------------
 
 IPSOU is a search engine based on the IPFS distributed storage network, which is dedicated to creating a decentralized and reliable search system.IPSOU builds a decentralized trusted search value intelligent distribution platform through the perfect combination of artificial intelligence, search algorithm, blockchain and distributed storage technology solutions. IPSOU permanently and securely stores search data and user data in a distributed network. IPSOU creates greater business value for the development of the industry.
 
-【IPSOU as a search engine can quickly search massive files】
+*【IPSOU as a search engine can quickly search massive files】
 
 IPSOU uses the unique decentralization and distributed design of the blockchain, unlike the centralized server to steal users’ privacy. In the IPSOU system, data requests and transmissions are hashed all the way, and cannot be cracked or falsified.
 
-【IPSOU can avoid centralization risks and high efficiency protection】
+*【IPSOU can avoid centralization risks and high efficiency protection】
 
 Centralized management of centralized storage can be completely compromised by operational risk or hacking. Innovative governance model promotes the self-circulation of ecology.
 
-【Data ownership and privacy protection】
+*【Data ownership and privacy protection】
 
 The user's identity and stored data/file content are hash-encrypted and the privacy leaks are better avoided within the system.
