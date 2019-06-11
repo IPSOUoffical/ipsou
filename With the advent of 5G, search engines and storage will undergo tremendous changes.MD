@@ -1,9 +1,11 @@
 5G era is the coming in the corner, what changes are traditional storage and search engines facing?
-------------------------------------------------------------------------------
+=====================================================================================================
 
 As the fifth generation mobile and communication network, 5G network has a peak theory and transmission speed of tens of gigabytes per second. The conversion ratio of 4 to 5 gigabytes from typewriter to computer has a far-reaching impact on enterprises, consumers and marketing.
 When a new technology first appears, we usually don't know how to deal with it, nor what results it will bring. The 5G era is approaching, bringing about a comprehensive change in the interconnection between people and all things.
 Today, various applications based on the Internet have become essential products for people's life and production. Behind the easy click, have you think about how the data center behind it can support "everyone's easy click" through the continuous upgrading of technology?
+
+![5G is on the corner](https://github.com/IPSOUoffical/ipsou/blob/master/image/1%E3%80%815G%20is%20on%20the%20corner.jpg)
 
 Storage Architecture in the New Era: From Centralized to Distributed
 ------------------------------------------------------------------------------
@@ -14,12 +16,17 @@ Secondly, enough stability and reliability. Distributed storage needs rich disas
 Thirdly, Implement efficient use of storage resources. The phenomenon of traditional storage information islands is serious, and the utilization rate of resources is seriously uneven, which causes huge waste of storage resources and makes data sharing and management very difficult.
 For this reason, in the process of dealing with the complex and changeable data environment, distributed storage is becoming a new favorite of operators in the new era. In order to adapt to the development of technology and the changes of operators’ needs, more and more applications based on distributed storage protocol can support both emerging applications and key applications, which is stable, reliable, simple and easy to use.
 
+![cloud computing](https://github.com/IPSOUoffical/ipsou/blob/master/image/2%E3%80%81cloud%20computing.jpg)
+
 Search engine based on distributed storage protocol is widely used
 ------------------------------------------------------------------------------
 
 With the advent of 5G era, applications are becoming more and more abundant and the number of users is increasing, which leads to the geometric growth of data. The storage of massive data brings tremendous pressure to local storage. The storage system is already overburdened and on the edge of collapse. Therefore, the pressure of storage system must be dispersed and distributed by other means. Type storage came into being at the historic moment.
 The original intention of search engine is to classify the massive fragmented information index of the Internet, but in fact, the form and function have not changed for so many years. With the information explosion, 5G arrival, it is more and more difficult to search for what you want. In the era of mobile internet, we surf more in apps on smartphones, but each app is like an information island. So a powerful search engine is still just what we need to travel through the Internet.
 The new search engine based on distributed storage and block chain technology of IPFS protocol has gradually appeared in the public view, just as IPSOU search is no longer an engine just to help people find the answer. It demonstrates new capabilities and indicates that a new generation of search is becoming more precise, valuable and intelligent. This also means a change in the form of "search" results: IPSOU search is evolving from helping you select information and providing you with more information to "precise value of search".
+
+![ipsou](https://github.com/IPSOUoffical/ipsou/blob/master/image/3%E3%80%81ipsou.jpg)
+
 
 New Search Engines Appear in the New Era
 ------------------------------------------------------------------------------
