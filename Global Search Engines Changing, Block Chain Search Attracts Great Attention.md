@@ -43,6 +43,7 @@ Enterprises should not ignore this search engine. Although it has fewer users th
 In addition, because most businesses and experts focus on Google, Bing is less competitive. So Bing ads and SEOs are certainly worth considering.
 
 Search Engine #3 Baidu
+
 **Global search engine market share: 7.34%**
 
 Baidu, the third largest search engine, has a market share of 7.34%.
